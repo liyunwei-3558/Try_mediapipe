@@ -2,6 +2,7 @@
 
 
 ### How to run
+0. 在目录里新建dataset文件夹
 1. python capture_and_save.py  
 先输入这次要录入的动作名（英文），然后录制一段时间结束即可
 2. python train_model.py  
